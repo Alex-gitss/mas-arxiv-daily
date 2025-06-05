@@ -22,18 +22,29 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Multi-Agent Reinforcement Learning":
+        filters: ["Multi-Agent Reinforcement Learning", "MARL", "Multi-agent RL", 
+                  "Cooperative Reinforcement Learning", "Competitive Reinforcement Learning"]
+    "Multi-Agent Systems":
+        filters: ["Multi-Agent System", "Multi-agent System", "MAS", 
+                  "Distributed AI", "Distributed Artificial Intelligence"]
+    "Multi-Agent Coordination":
+        filters: ["Multi-Agent Coordination", "Agent Coordination", 
+                  "Multi-Agent Planning", "Cooperative Planning", 
+                  "Distributed Planning", "Multi-Agent Task Assignment"]
+    "Multi-Agent Communication":
+        filters: ["Multi-Agent Communication", "Agent Communication", 
+                  "Communication Protocol", "Message Passing", 
+                  "Emergent Communication"]
+    "Game Theory and MAS":
+        filters: ["Game Theory", "Nash Equilibrium", "Mechanism Design", 
+                  "Auction Theory", "Cooperative Game Theory", "Multi-Agent Game"]
+    "Swarm Intelligence":
+        filters: ["Swarm Intelligence", "Collective Intelligence", 
+                  "Emergent Behavior", "Self-Organization", "Ant Colony Optimization"]
+    "Consensus and Agreement":
+        filters: ["Consensus Algorithm", "Distributed Consensus", 
+                  "Byzantine Agreement", "Fault Tolerance", "Agreement Protocol"]
+    "Multi-Agent Simulation":
+        filters: ["Agent-Based Modeling", "Multi-Agent Simulation", 
+                  "ABM", "Agent-Based Model", "Complex Adaptive Systems"]
