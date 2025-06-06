@@ -1,11 +1,47 @@
 ---
 layout: default
+title: MAS ArXiv Daily - 多智能体系统最新论文追踪
+description: 自动追踪多智能体系统、强化学习、协作AI等领域的最新ArXiv论文，每8小时自动更新
 ---
 
-## Updated on 2025.06.05
-> Usage instructions: [here](./docs/README.md#usage)
+<div class="toc">
+  <h3><i class="fas fa-list"></i> 📚 研究领域导航</h3>
+  <ul>
+    <li><a href="#multi-agent-reinforcement-learning"><i class="fas fa-brain"></i> 多智能体强化学习</a></li>
+    <li><a href="#multi-agent-systems"><i class="fas fa-network-wired"></i> 多智能体系统</a></li>
+    <li><a href="#multi-agent-coordination"><i class="fas fa-handshake"></i> 多智能体协调</a></li>
+    <li><a href="#multi-agent-communication"><i class="fas fa-comments"></i> 多智能体通信</a></li>
+    <li><a href="#game-theory-and-mas"><i class="fas fa-chess"></i> 博弈论与MAS</a></li>
+    <li><a href="#swarm-intelligence"><i class="fas fa-bees"></i> 群体智能</a></li>
+    <li><a href="#consensus-and-agreement"><i class="fas fa-balance-scale"></i> 一致性与协议</a></li>
+    <li><a href="#multi-agent-simulation"><i class="fas fa-cube"></i> 多智能体仿真</a></li>
+  </ul>
+</div>
 
-## SLAM
+<div style="background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%); padding: 1.5rem; border-radius: 10px; margin: 2rem 0; border-left: 4px solid #667eea;">
+  <h3 style="color: #1976d2; margin-bottom: 1rem;"><i class="fas fa-info-circle"></i> 🎯 项目说明</h3>
+  <p style="margin-bottom: 1rem;">本项目每8小时自动从ArXiv抓取多智能体系统(MAS)相关的最新论文，涵盖强化学习、协作AI、群体智能等热门研究方向。论文按主题分类展示，方便研究者快速获取最新进展。</p>
+  <div class="category-tags">
+    <span class="tag">多智能体强化学习</span>
+    <span class="tag">协作学习</span>
+    <span class="tag">群体智能</span>
+    <span class="tag">博弈论</span>
+    <span class="tag">一致性算法</span>
+    <span class="tag">通信协议</span>
+    <span class="tag">分布式AI</span>
+    <span class="tag">智能体建模</span>
+  </div>
+  <p style="margin-top: 1rem; font-size: 0.9em; color: #666;">
+    <i class="fas fa-lightbulb"></i> 
+    <strong>使用提示：</strong> 可使用搜索框快速查找感兴趣的论文，点击论文标题查看摘要，绿色按钮可直接访问代码仓库。
+  </p>
+</div>
+
+> <i class="fas fa-clock"></i> **最后更新时间：** 2025年06月05日 | 
+> <i class="fas fa-sync-alt"></i> **更新频率：** 每8小时自动更新 | 
+> <i class="fas fa-book"></i> **使用说明：** [详细文档](./README.md#usage)
+
+## <i class="fas fa-brain"></i> Multi-Agent Reinforcement Learning {#multi-agent-reinforcement-learning}
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -965,7 +1001,7 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-## SFM
+## <i class="fas fa-network-wired"></i> Multi-Agent Systems {#multi-agent-systems}
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1388,7 +1424,7 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-## Visual Localization
+## <i class="fas fa-handshake"></i> Multi-Agent Coordination {#multi-agent-coordination}
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -2550,7 +2586,7 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-## Keypoint Detection
+## <i class="fas fa-comments"></i> Multi-Agent Communication {#multi-agent-communication}
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -2863,7 +2899,7 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-## Image Matching
+## <i class="fas fa-chess"></i> Game Theory and MAS {#game-theory-and-mas}
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -3195,7 +3231,7 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-## NeRF
+## <i class="fas fa-bees"></i> Swarm Intelligence {#swarm-intelligence}
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|

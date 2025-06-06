@@ -1,21 +1,59 @@
-title: MAS Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
+title: MAS ArXiv Daily - 多智能体系统最新论文追踪
+description: 自动追踪多智能体系统、强化学习、协作AI等领域的最新ArXiv论文，每8小时自动更新
 show_downloads: true
 
+# 网站基本设置
+url: "https://alex-gitss.github.io"
+baseurl: "/mas-arxiv-daily"
+author: Alex-gitss
+email: alex@example.com
+
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/Alex-gitss/mas-arxiv-daily
+  another_url: https://github.com/Alex-gitss/mas-arxiv-daily
 
-## add remote theme
-remote_theme: jekyll/minima@v2.5.1
+## 使用更现代的主题
+remote_theme: pages-themes/cayman@v0.2.0
 
-# minima:
-skin: dark
+# 主题配置
+color-scheme: light
+minima:
+  skin: solarized-dark
+  
+# 社交链接
 social_links:
-  twitter: AlphaRealcat
-  github: vincentqyw
+  twitter: alex_gitss
+  github: alex-gitss
+  email: alex@example.com
 
+# 插件
 plugins:
- - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-remote-theme
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
+
+# SEO设置
+lang: zh-CN
+twitter:
+  username: alex_gitss
+  card: summary
+
+# Google Analytics (可选)
+# google_analytics: UA-NNNNNNNN-N
+
+# 头部元数据
+header_pages:
+  - index.md
+  - about.md
+
+# 导航菜单
+navigation:
+  - title: 首页
+    url: /
+  - title: 论文分类
+    url: /#categories
+  - title: 使用说明
+    url: /README.html
+  - title: 关于项目
+    url: /about.html
