@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4836,7 +4836,7 @@ layout: default
 |**2025-06-04**|**An independent estimate of H(z) at z = 0.5 from the stellar ages of brightest cluster galaxies**|S. Ilani Loubser et.al.|[2506.03836](http://arxiv.org/abs/2506.03836)|null|
 |**2025-06-04**|**Spatially Resolved Meteorological and Ancillary Data in Central Europe for Rainfall Streamflow Modeling**|Marc Aurel Vischer et.al.|[2506.03819](http://arxiv.org/abs/2506.03819)|null|
 |**2025-06-04**|**Attention-Only Transformers via Unrolled Subspace Denoising**|Peng Wang et.al.|[2506.03790](http://arxiv.org/abs/2506.03790)|null|
-|**2025-06-04**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
+|**2025-06-05**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
 |**2025-06-04**|**MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition**|Yinfeng Xia et.al.|[2506.03722](http://arxiv.org/abs/2506.03722)|null|
 |**2025-06-04**|**Advancements in Artificial Intelligence Applications for Cardiovascular Disease Research**|Yuanlin Mo et.al.|[2506.03698](http://arxiv.org/abs/2506.03698)|null|
 |**2025-06-04**|**A Two-Staged LLM-Based Framework for CI/CD Failure Detection and Remediation with Industrial Validation**|Weiyuan Xu et.al.|[2506.03691](http://arxiv.org/abs/2506.03691)|null|
@@ -4875,7 +4875,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-04**|**Complexity and Manipulation of International Kidney Exchange Programmes with Country-Specific Parameterss**|Rachael Colley et.al.|[2506.04092](http://arxiv.org/abs/2506.04092)|null|
+|**2025-06-05**|**Complexity and Manipulation of International Kidney Exchange Programmes with Country-Specific Parameters**|Rachael Colley et.al.|[2506.04092](http://arxiv.org/abs/2506.04092)|null|
 |**2025-06-04**|**Correlated equilibrium implementation: Navigating toward social optima with learning dynamics**|Soumen Banerjee et.al.|[2506.03528](http://arxiv.org/abs/2506.03528)|null|
 |**2025-06-04**|**From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**|Yang Cai et.al.|[2506.03464](http://arxiv.org/abs/2506.03464)|null|
 |**2025-06-03**|**A Machine Learning Theory Perspective on Strategic Litigation**|Melissa Dutz et.al.|[2506.03411](http://arxiv.org/abs/2506.03411)|null|
