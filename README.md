@@ -4843,6 +4843,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Autonomous Collaborative Scheduling of Time-dependent UAVs, Workers and Vehicles for Crowdsensing in Disaster Response**|Lei Han et.al.|[2506.04276](http://arxiv.org/abs/2506.04276)|null|
+|**2025-06-03**|**CORA: Coalitional Rational Advantage Decomposition for Multi-Agent Policy Gradients**|Mengda Ji et.al.|[2506.04265](http://arxiv.org/abs/2506.04265)|null|
+|**2025-06-01**|**Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation**|Zhengyang Li et.al.|[2506.04251](http://arxiv.org/abs/2506.04251)|null|
 |**2025-06-03**|**Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods**|Tom Danino et.al.|[2506.02841](http://arxiv.org/abs/2506.02841)|null|
 |**2025-06-03**|**Heterogeneous Group-Based Reinforcement Learning for LLM-based Multi-Agent Systems**|Guanzhong Chen et.al.|[2506.02718](http://arxiv.org/abs/2506.02718)|null|
 |**2025-06-03**|**LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation**|Guobin Zhu et.al.|[2506.01538](http://arxiv.org/abs/2506.01538)|null|
@@ -4860,6 +4863,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338](http://arxiv.org/abs/2506.05338)|null|
+|**2025-06-05**|**Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning**|Nan Huo et.al.|[2506.05278](http://arxiv.org/abs/2506.05278)|null|
+|**2025-06-05**|**MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm**|Zhang Li et.al.|[2506.05218](http://arxiv.org/abs/2506.05218)|null|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning**|Yunsheng Tian et.al.|[2506.05168](http://arxiv.org/abs/2506.05168)|null|
+|**2025-06-05**|**EDEN: Efficient Dual-Layer Exploration Planning for Fast UAV Autonomous Exploration in Large 3-D Environments**|Qianli Dong et.al.|[2506.05106](http://arxiv.org/abs/2506.05106)|null|
+|**2025-06-05**|**Study of $f_1(1420)$ and $η(1405)$ in the decay $J/ψ\to γ π^{0}π^{0}π^{0}$**|BESIII Collaboration et.al.|[2506.05055](http://arxiv.org/abs/2506.05055)|null|
+|**2025-06-05**|**Chiral perturbation theory for baryon-number-violating nucleon decay into a vector meson**|Yi Liao et.al.|[2506.05052](http://arxiv.org/abs/2506.05052)|null|
+|**2025-06-05**|**Rethinking Contrastive Learning in Session-based Recommendation**|Xiaokun Zhang et.al.|[2506.05044](http://arxiv.org/abs/2506.05044)|null|
+|**2025-06-05**|**Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System**|Haokun Liu et.al.|[2506.05020](http://arxiv.org/abs/2506.05020)|null|
 |**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
 |**2025-06-04**|**TESS Science Processing Operations Center Photometric Precision Archival Product**|Joseph D. Twicken et.al.|[2506.04136](http://arxiv.org/abs/2506.04136)|null|
 |**2025-06-04**|**PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading**|Qiuhan Han et.al.|[2506.03861](http://arxiv.org/abs/2506.03861)|null|
@@ -4894,6 +4907,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236](http://arxiv.org/abs/2506.05236)|null|
+|**2025-06-05**|**Overlap Gap and Computational Thresholds in the Square Wave Perceptron**|Marco Benedetti et.al.|[2506.05197](http://arxiv.org/abs/2506.05197)|null|
+|**2025-06-05**|**OpenGT: A Comprehensive Benchmark For Graph Transformers**|Jiachen Tang et.al.|[2506.04765](http://arxiv.org/abs/2506.04765)|null|
+|**2025-06-05**|**FlashDMoE: Fast Distributed MoE in a Single Kernel**|Osayamen Jonathan Aimuyo et.al.|[2506.04667](http://arxiv.org/abs/2506.04667)|null|
 |**2025-06-04**|**Tournament Robustness via Redundancy**|Klim Efremenko et.al.|[2506.03701](http://arxiv.org/abs/2506.03701)|null|
 |**2025-06-03**|**Physics and Computing Performance of the EggNet Tracking Pipeline**|Jay Chan et.al.|[2506.03415](http://arxiv.org/abs/2506.03415)|null|
 |**2025-06-03**|**Fast offline decoding with local message-passing automata**|Ethan Lake et.al.|[2506.03266](http://arxiv.org/abs/2506.03266)|null|
@@ -4911,6 +4928,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Equilibrium Computation in First-Price Auctions with Correlated Priors**|Aris Filos-Ratsikas et.al.|[2506.05322](http://arxiv.org/abs/2506.05322)|null|
+|**2025-06-05**|**Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning**|Dravyansh Sharma et.al.|[2506.05252](http://arxiv.org/abs/2506.05252)|null|
+|**2025-06-05**|**Cooperation and the Design of Public Goods**|J. Carlos Martínez Mori et.al.|[2506.05251](http://arxiv.org/abs/2506.05251)|null|
+|**2025-06-05**|**Cautious Optimism: A Meta-Algorithm for Near-Constant Regret in General Games**|Ashkan Soleymani et.al.|[2506.05005](http://arxiv.org/abs/2506.05005)|null|
+|**2025-06-05**|**Distributionally Robust Auction Design with Deferred Inspection**|Halil I. Bayrak et.al.|[2506.04767](http://arxiv.org/abs/2506.04767)|null|
+|**2025-06-05**|**BVLSM: Write-Efficient LSM-Tree Storage via WAL-Time Key-Value Separation**|Ming Li et.al.|[2506.04678](http://arxiv.org/abs/2506.04678)|null|
+|**2025-06-05**|**An O(log log n)-approximate budget feasible mechanism for subadditive valuations**|Rian Neogi et.al.|[2506.04665](http://arxiv.org/abs/2506.04665)|null|
+|**2025-06-05**|**Misère Greedy Nim and Misère Bounded Greedy Nim**|Nanako Omiya et.al.|[2506.04657](http://arxiv.org/abs/2506.04657)|null|
+|**2025-06-05**|**MVP-Shapley: Feature-based Modeling for Evaluating the Most Valuable Player in Basketball**|Haifeng Sun et.al.|[2506.04602](http://arxiv.org/abs/2506.04602)|null|
+|**2025-06-05**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
 |**2025-06-05**|**Complexity and Manipulation of International Kidney Exchange Programmes with Country-Specific Parameters**|Rachael Colley et.al.|[2506.04092](http://arxiv.org/abs/2506.04092)|null|
 |**2025-06-04**|**Correlated equilibrium implementation: Navigating toward social optima with learning dynamics**|Soumen Banerjee et.al.|[2506.03528](http://arxiv.org/abs/2506.03528)|null|
 |**2025-06-04**|**From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**|Yang Cai et.al.|[2506.03464](http://arxiv.org/abs/2506.03464)|null|
@@ -4928,6 +4955,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-01**|**Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation**|Zhengyang Li et.al.|[2506.04251](http://arxiv.org/abs/2506.04251)|null|
 |**2025-06-04**|**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**|Chaeyun Jang et.al.|[2506.03723](http://arxiv.org/abs/2506.03723)|null|
 |**2025-06-03**|**MAEBE: Multi-Agent Emergent Behavior Framework**|Sinem Erisken et.al.|[2506.03053](http://arxiv.org/abs/2506.03053)|null|
 |**2025-06-03**|**Adaptive Exploration in Lenia with Intrinsic Multi-Objective Ranking**|Niko Lorantos et.al.|[2506.02990](http://arxiv.org/abs/2506.02990)|null|
@@ -4945,6 +4973,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**The Arm Qubit: A Superconducting Qubit Co-Designed for Coherence and Coupling**|Jeremy B. Kline et.al.|[2506.05315](http://arxiv.org/abs/2506.05315)|null|
+|**2025-06-05**|**Improved Byzantine Agreement under an Adaptive Adversary**|Fabien Dufoulon et.al.|[2506.04919](http://arxiv.org/abs/2506.04919)|null|
+|**2025-06-05**|**A Resource Allocating Compiler for Lattice Surgery**|Alan Robertson et.al.|[2506.04620](http://arxiv.org/abs/2506.04620)|null|
+|**2025-06-04**|**Exponential distillation of dominant eigenproperties**|Bence Bakó et.al.|[2506.04380](http://arxiv.org/abs/2506.04380)|null|
+|**2025-06-04**|**Fully-Distributed Construction of Byzantine-Resilient Dynamic Peer-to-Peer Networks**|Aayush Gupta et.al.|[2506.04368](http://arxiv.org/abs/2506.04368)|null|
 |**2025-06-04**|**A Unitary Encoder for Surface Codes**|Pei-Kai Tsai et.al.|[2506.04084](http://arxiv.org/abs/2506.04084)|null|
 |**2025-06-04**|**Investigating the emergent invariant properties of Hungarian electric distribution networks**|Michelle T. Cirunay et.al.|[2506.04009](http://arxiv.org/abs/2506.04009)|null|
 |**2025-06-04**|**Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning**|Melody Lee et.al.|[2506.03920](http://arxiv.org/abs/2506.03920)|null|
@@ -4962,6 +4995,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Temporal passing network in basketball: the effect of time pressure on the dynamics of team organization at micro and meso levels**|Quentin Bourgeais et.al.|[2506.04808](http://arxiv.org/abs/2506.04808)|null|
+|**2025-06-05**|**Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling**|Bihan Xu et.al.|[2506.04699](http://arxiv.org/abs/2506.04699)|null|
 |**2025-06-03**|**TaxAgent: How Large Language Model Designs Fiscal Policy**|Jizhou Wang et.al.|[2506.02838](http://arxiv.org/abs/2506.02838)|null|
 |**2025-06-03**|**A novel sensitivity analysis method for agent-based models stratifies in-silico tumor spheroid simulations**|Edward H. Rohr et.al.|[2506.00168](http://arxiv.org/abs/2506.00168)|null|
 |**2025-05-28**|**A hybrid PDE-ABM model for angiogenesis and tumour microenvironment with application to resistance in cancer treatment**|Louis Shuo Wang et.al.|[2505.22580](http://arxiv.org/abs/2505.22580)|null|

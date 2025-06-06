@@ -1,47 +1,11 @@
 ---
 layout: default
-title: MAS ArXiv Daily - 多智能体系统最新论文追踪
-description: 自动追踪多智能体系统、强化学习、协作AI等领域的最新ArXiv论文，每8小时自动更新
 ---
 
-<div class="toc">
-  <h3><i class="fas fa-list"></i> 📚 研究领域导航</h3>
-  <ul>
-    <li><a href="#multi-agent-reinforcement-learning"><i class="fas fa-brain"></i> 多智能体强化学习</a></li>
-    <li><a href="#multi-agent-systems"><i class="fas fa-network-wired"></i> 多智能体系统</a></li>
-    <li><a href="#multi-agent-coordination"><i class="fas fa-handshake"></i> 多智能体协调</a></li>
-    <li><a href="#multi-agent-communication"><i class="fas fa-comments"></i> 多智能体通信</a></li>
-    <li><a href="#game-theory-and-mas"><i class="fas fa-chess"></i> 博弈论与MAS</a></li>
-    <li><a href="#swarm-intelligence"><i class="fas fa-bees"></i> 群体智能</a></li>
-    <li><a href="#consensus-and-agreement"><i class="fas fa-balance-scale"></i> 一致性与协议</a></li>
-    <li><a href="#multi-agent-simulation"><i class="fas fa-cube"></i> 多智能体仿真</a></li>
-  </ul>
-</div>
+## Updated on 2025.06.06
+> Usage instructions: [here](./docs/README.md#usage)
 
-<div style="background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%); padding: 1.5rem; border-radius: 10px; margin: 2rem 0; border-left: 4px solid #667eea;">
-  <h3 style="color: #1976d2; margin-bottom: 1rem;"><i class="fas fa-info-circle"></i> 🎯 项目说明</h3>
-  <p style="margin-bottom: 1rem;">本项目每8小时自动从ArXiv抓取多智能体系统(MAS)相关的最新论文，涵盖强化学习、协作AI、群体智能等热门研究方向。论文按主题分类展示，方便研究者快速获取最新进展。</p>
-  <div class="category-tags">
-    <span class="tag">多智能体强化学习</span>
-    <span class="tag">协作学习</span>
-    <span class="tag">群体智能</span>
-    <span class="tag">博弈论</span>
-    <span class="tag">一致性算法</span>
-    <span class="tag">通信协议</span>
-    <span class="tag">分布式AI</span>
-    <span class="tag">智能体建模</span>
-  </div>
-  <p style="margin-top: 1rem; font-size: 0.9em; color: #666;">
-    <i class="fas fa-lightbulb"></i> 
-    <strong>使用提示：</strong> 可使用搜索框快速查找感兴趣的论文，点击论文标题查看摘要，绿色按钮可直接访问代码仓库。
-  </p>
-</div>
-
-> <i class="fas fa-clock"></i> **最后更新时间：** 2025年06月05日 | 
-> <i class="fas fa-sync-alt"></i> **更新频率：** 每8小时自动更新 | 
-> <i class="fas fa-book"></i> **使用说明：** [详细文档](./README.md#usage)
-
-## <i class="fas fa-brain"></i> Multi-Agent Reinforcement Learning {#multi-agent-reinforcement-learning}
+## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1001,7 +965,7 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-## <i class="fas fa-network-wired"></i> Multi-Agent Systems {#multi-agent-systems}
+## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1424,7 +1388,7 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-## <i class="fas fa-handshake"></i> Multi-Agent Coordination {#multi-agent-coordination}
+## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -2586,7 +2550,7 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-## <i class="fas fa-comments"></i> Multi-Agent Communication {#multi-agent-communication}
+## Keypoint Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -2899,7 +2863,7 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-## <i class="fas fa-chess"></i> Game Theory and MAS {#game-theory-and-mas}
+## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -3231,7 +3195,7 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-## <i class="fas fa-bees"></i> Swarm Intelligence {#swarm-intelligence}
+## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -4851,6 +4815,9 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Autonomous Collaborative Scheduling of Time-dependent UAVs, Workers and Vehicles for Crowdsensing in Disaster Response**|Lei Han et.al.|[2506.04276](http://arxiv.org/abs/2506.04276)|null|
+|**2025-06-03**|**CORA: Coalitional Rational Advantage Decomposition for Multi-Agent Policy Gradients**|Mengda Ji et.al.|[2506.04265](http://arxiv.org/abs/2506.04265)|null|
+|**2025-06-01**|**Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation**|Zhengyang Li et.al.|[2506.04251](http://arxiv.org/abs/2506.04251)|null|
 |**2025-06-03**|**Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods**|Tom Danino et.al.|[2506.02841](http://arxiv.org/abs/2506.02841)|null|
 |**2025-06-03**|**Heterogeneous Group-Based Reinforcement Learning for LLM-based Multi-Agent Systems**|Guanzhong Chen et.al.|[2506.02718](http://arxiv.org/abs/2506.02718)|null|
 |**2025-06-03**|**LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation**|Guobin Zhu et.al.|[2506.01538](http://arxiv.org/abs/2506.01538)|null|
@@ -4866,6 +4833,16 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338](http://arxiv.org/abs/2506.05338)|null|
+|**2025-06-05**|**Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning**|Nan Huo et.al.|[2506.05278](http://arxiv.org/abs/2506.05278)|null|
+|**2025-06-05**|**MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm**|Zhang Li et.al.|[2506.05218](http://arxiv.org/abs/2506.05218)|null|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning**|Yunsheng Tian et.al.|[2506.05168](http://arxiv.org/abs/2506.05168)|null|
+|**2025-06-05**|**EDEN: Efficient Dual-Layer Exploration Planning for Fast UAV Autonomous Exploration in Large 3-D Environments**|Qianli Dong et.al.|[2506.05106](http://arxiv.org/abs/2506.05106)|null|
+|**2025-06-05**|**Study of $f_1(1420)$ and $η(1405)$ in the decay $J/ψ\to γ π^{0}π^{0}π^{0}$**|BESIII Collaboration et.al.|[2506.05055](http://arxiv.org/abs/2506.05055)|null|
+|**2025-06-05**|**Chiral perturbation theory for baryon-number-violating nucleon decay into a vector meson**|Yi Liao et.al.|[2506.05052](http://arxiv.org/abs/2506.05052)|null|
+|**2025-06-05**|**Rethinking Contrastive Learning in Session-based Recommendation**|Xiaokun Zhang et.al.|[2506.05044](http://arxiv.org/abs/2506.05044)|null|
+|**2025-06-05**|**Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System**|Haokun Liu et.al.|[2506.05020](http://arxiv.org/abs/2506.05020)|null|
 |**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
 |**2025-06-04**|**TESS Science Processing Operations Center Photometric Precision Archival Product**|Joseph D. Twicken et.al.|[2506.04136](http://arxiv.org/abs/2506.04136)|null|
 |**2025-06-04**|**PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading**|Qiuhan Han et.al.|[2506.03861](http://arxiv.org/abs/2506.03861)|null|
@@ -4896,6 +4873,10 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236](http://arxiv.org/abs/2506.05236)|null|
+|**2025-06-05**|**Overlap Gap and Computational Thresholds in the Square Wave Perceptron**|Marco Benedetti et.al.|[2506.05197](http://arxiv.org/abs/2506.05197)|null|
+|**2025-06-05**|**OpenGT: A Comprehensive Benchmark For Graph Transformers**|Jiachen Tang et.al.|[2506.04765](http://arxiv.org/abs/2506.04765)|null|
+|**2025-06-05**|**FlashDMoE: Fast Distributed MoE in a Single Kernel**|Osayamen Jonathan Aimuyo et.al.|[2506.04667](http://arxiv.org/abs/2506.04667)|null|
 |**2025-06-04**|**Tournament Robustness via Redundancy**|Klim Efremenko et.al.|[2506.03701](http://arxiv.org/abs/2506.03701)|null|
 |**2025-06-03**|**Physics and Computing Performance of the EggNet Tracking Pipeline**|Jay Chan et.al.|[2506.03415](http://arxiv.org/abs/2506.03415)|null|
 |**2025-06-03**|**Fast offline decoding with local message-passing automata**|Ethan Lake et.al.|[2506.03266](http://arxiv.org/abs/2506.03266)|null|
@@ -4911,6 +4892,16 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Equilibrium Computation in First-Price Auctions with Correlated Priors**|Aris Filos-Ratsikas et.al.|[2506.05322](http://arxiv.org/abs/2506.05322)|null|
+|**2025-06-05**|**Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning**|Dravyansh Sharma et.al.|[2506.05252](http://arxiv.org/abs/2506.05252)|null|
+|**2025-06-05**|**Cooperation and the Design of Public Goods**|J. Carlos Martínez Mori et.al.|[2506.05251](http://arxiv.org/abs/2506.05251)|null|
+|**2025-06-05**|**Cautious Optimism: A Meta-Algorithm for Near-Constant Regret in General Games**|Ashkan Soleymani et.al.|[2506.05005](http://arxiv.org/abs/2506.05005)|null|
+|**2025-06-05**|**Distributionally Robust Auction Design with Deferred Inspection**|Halil I. Bayrak et.al.|[2506.04767](http://arxiv.org/abs/2506.04767)|null|
+|**2025-06-05**|**BVLSM: Write-Efficient LSM-Tree Storage via WAL-Time Key-Value Separation**|Ming Li et.al.|[2506.04678](http://arxiv.org/abs/2506.04678)|null|
+|**2025-06-05**|**An O(log log n)-approximate budget feasible mechanism for subadditive valuations**|Rian Neogi et.al.|[2506.04665](http://arxiv.org/abs/2506.04665)|null|
+|**2025-06-05**|**Misère Greedy Nim and Misère Bounded Greedy Nim**|Nanako Omiya et.al.|[2506.04657](http://arxiv.org/abs/2506.04657)|null|
+|**2025-06-05**|**MVP-Shapley: Feature-based Modeling for Evaluating the Most Valuable Player in Basketball**|Haifeng Sun et.al.|[2506.04602](http://arxiv.org/abs/2506.04602)|null|
+|**2025-06-05**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
 |**2025-06-05**|**Complexity and Manipulation of International Kidney Exchange Programmes with Country-Specific Parameters**|Rachael Colley et.al.|[2506.04092](http://arxiv.org/abs/2506.04092)|null|
 |**2025-06-04**|**Correlated equilibrium implementation: Navigating toward social optima with learning dynamics**|Soumen Banerjee et.al.|[2506.03528](http://arxiv.org/abs/2506.03528)|null|
 |**2025-06-04**|**From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**|Yang Cai et.al.|[2506.03464](http://arxiv.org/abs/2506.03464)|null|
@@ -4926,6 +4917,7 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-01**|**Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation**|Zhengyang Li et.al.|[2506.04251](http://arxiv.org/abs/2506.04251)|null|
 |**2025-06-04**|**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**|Chaeyun Jang et.al.|[2506.03723](http://arxiv.org/abs/2506.03723)|null|
 |**2025-06-03**|**MAEBE: Multi-Agent Emergent Behavior Framework**|Sinem Erisken et.al.|[2506.03053](http://arxiv.org/abs/2506.03053)|null|
 |**2025-06-03**|**Adaptive Exploration in Lenia with Intrinsic Multi-Objective Ranking**|Niko Lorantos et.al.|[2506.02990](http://arxiv.org/abs/2506.02990)|null|
@@ -4941,6 +4933,11 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**The Arm Qubit: A Superconducting Qubit Co-Designed for Coherence and Coupling**|Jeremy B. Kline et.al.|[2506.05315](http://arxiv.org/abs/2506.05315)|null|
+|**2025-06-05**|**Improved Byzantine Agreement under an Adaptive Adversary**|Fabien Dufoulon et.al.|[2506.04919](http://arxiv.org/abs/2506.04919)|null|
+|**2025-06-05**|**A Resource Allocating Compiler for Lattice Surgery**|Alan Robertson et.al.|[2506.04620](http://arxiv.org/abs/2506.04620)|null|
+|**2025-06-04**|**Exponential distillation of dominant eigenproperties**|Bence Bakó et.al.|[2506.04380](http://arxiv.org/abs/2506.04380)|null|
+|**2025-06-04**|**Fully-Distributed Construction of Byzantine-Resilient Dynamic Peer-to-Peer Networks**|Aayush Gupta et.al.|[2506.04368](http://arxiv.org/abs/2506.04368)|null|
 |**2025-06-04**|**A Unitary Encoder for Surface Codes**|Pei-Kai Tsai et.al.|[2506.04084](http://arxiv.org/abs/2506.04084)|null|
 |**2025-06-04**|**Investigating the emergent invariant properties of Hungarian electric distribution networks**|Michelle T. Cirunay et.al.|[2506.04009](http://arxiv.org/abs/2506.04009)|null|
 |**2025-06-04**|**Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning**|Melody Lee et.al.|[2506.03920](http://arxiv.org/abs/2506.03920)|null|
@@ -4956,6 +4953,8 @@ description: 自动追踪多智能体系统、强化学习、协作AI等领域�
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Temporal passing network in basketball: the effect of time pressure on the dynamics of team organization at micro and meso levels**|Quentin Bourgeais et.al.|[2506.04808](http://arxiv.org/abs/2506.04808)|null|
+|**2025-06-05**|**Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling**|Bihan Xu et.al.|[2506.04699](http://arxiv.org/abs/2506.04699)|null|
 |**2025-06-03**|**TaxAgent: How Large Language Model Designs Fiscal Policy**|Jizhou Wang et.al.|[2506.02838](http://arxiv.org/abs/2506.02838)|null|
 |**2025-06-03**|**A novel sensitivity analysis method for agent-based models stratifies in-silico tumor spheroid simulations**|Edward H. Rohr et.al.|[2506.00168](http://arxiv.org/abs/2506.00168)|null|
 |**2025-05-28**|**A hybrid PDE-ABM model for angiogenesis and tumour microenvironment with application to resistance in cancer treatment**|Louis Shuo Wang et.al.|[2505.22580](http://arxiv.org/abs/2505.22580)|null|
