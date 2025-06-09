@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -367,7 +367,7 @@ layout: default
 |**2024-09-16**|**P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty**|Yufan Zhang et.al.|[2409.10143](http://arxiv.org/abs/2409.10143)|**[link](https://github.com/bambvalley/p2u-slam)**|
 |**2024-09-16**|**SHIRE: Enhancing Sample Efficiency using Human Intuition in REinforcement Learning**|Amogh Joshi et.al.|[2409.09990](http://arxiv.org/abs/2409.09990)|null|
 |**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904](http://arxiv.org/abs/2409.09904)|null|
-|**2024-09-15**|**Marginalizing and Conditioning Gaussians onto Linear Approximations of Smooth Manifolds with Applications in Robotics**|Zi Cong Guo et.al.|[2409.09871](http://arxiv.org/abs/2409.09871)|null|
+|**2024-09-15**|**Marginalizing and Conditioning Gaussians onto Linear Approximations of Smooth Manifolds with Applications in Robotics**|Zi Cong Guo et.al.|[2409.09871](http://arxiv.org/abs/2409.09871)|**[link](https://github.com/qetuo1098/marg_cond_gaussian_example)**|
 |**2024-09-15**|**Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping**|Yi Liu et.al.|[2409.09763](http://arxiv.org/abs/2409.09763)|null|
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726](http://arxiv.org/abs/2409.09726)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
@@ -975,7 +975,7 @@ layout: default
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
-|**2025-05-30**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|null|
+|**2025-05-30**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-30**|**Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
@@ -4825,7 +4825,7 @@ layout: default
 |**2025-06-01**|**Action Dependency Graphs for Globally Optimal Coordinated Reinforcement Learning**|Jianglin Ding et.al.|[2506.00797](http://arxiv.org/abs/2506.00797)|null|
 |**2025-05-31**|**ORAN-GUIDE: RAG-Driven Prompt Learning for LLM-Augmented Reinforcement Learning in O-RAN Network Slicing**|Fatemeh Lotfi et.al.|[2506.00576](http://arxiv.org/abs/2506.00576)|null|
 |**2025-05-30**|**Distributed Intelligence in the Computing Continuum with Active Inference**|Victor Casamayor Pujol et.al.|[2505.24618](http://arxiv.org/abs/2505.24618)|null|
-|**2025-05-30**|**R3DM: Enabling Role Discovery and Diversity Through Dynamics Models in Multi-agent Reinforcement Learning**|Harsh Goel et.al.|[2505.24265](http://arxiv.org/abs/2505.24265)|null|
+|**2025-05-30**|**R3DM: Enabling Role Discovery and Diversity Through Dynamics Models in Multi-agent Reinforcement Learning**|Harsh Goel et.al.|[2505.24265](http://arxiv.org/abs/2505.24265)|**[link](https://github.com/utaustin-swarmlab/r3dm)**|
 |**2025-05-30**|**Biological Pathway Guided Gene Selection Through Collaborative Reinforcement Learning**|Ehtesamul Azim et.al.|[2505.24155](http://arxiv.org/abs/2505.24155)|null|
 |**2025-05-28**|**Oryx: a Performant and Scalable Algorithm for Many-Agent Coordination in Offline MARL**|Claude Formanek et.al.|[2505.22151](http://arxiv.org/abs/2505.22151)|null|
 
@@ -4861,10 +4861,10 @@ layout: default
 |**2025-06-02**|**Q-ARDNS-Multi: A Multi-Agent Quantum Reinforcement Learning Framework with Meta-Cognitive Adaptation for Complex 3D Environments**|Umberto Gonçalves de Sousa et.al.|[2506.03205](http://arxiv.org/abs/2506.03205)|null|
 |**2025-06-03**|**Why do AI agents communicate in human language?**|Pengcheng Zhou et.al.|[2506.02739](http://arxiv.org/abs/2506.02739)|null|
 |**2025-06-04**|**Comparative Analysis of AI Agent Architectures for Entity Relationship Classification**|Maryam Berijanian et.al.|[2506.02426](http://arxiv.org/abs/2506.02426)|null|
-|**2025-05-30**|**R3DM: Enabling Role Discovery and Diversity Through Dynamics Models in Multi-agent Reinforcement Learning**|Harsh Goel et.al.|[2505.24265](http://arxiv.org/abs/2505.24265)|null|
+|**2025-05-30**|**R3DM: Enabling Role Discovery and Diversity Through Dynamics Models in Multi-agent Reinforcement Learning**|Harsh Goel et.al.|[2505.24265](http://arxiv.org/abs/2505.24265)|**[link](https://github.com/utaustin-swarmlab/r3dm)**|
 |**2025-05-28**|**Oryx: a Performant and Scalable Algorithm for Many-Agent Coordination in Offline MARL**|Claude Formanek et.al.|[2505.22151](http://arxiv.org/abs/2505.22151)|null|
 |**2025-05-25**|**Making Teams and Influencing Agents: Efficiently Coordinating Decision Trees for Interpretable Multi-Agent Reinforcement Learning**|Rex Chen et.al.|[2505.19316](http://arxiv.org/abs/2505.19316)|null|
-|**2025-05-19**|**AD-AGENT: A Multi-agent Framework for End-to-end Anomaly Detection**|Tiankai Yang et.al.|[2505.12594](http://arxiv.org/abs/2505.12594)|null|
+|**2025-05-19**|**AD-AGENT: A Multi-agent Framework for End-to-end Anomaly Detection**|Tiankai Yang et.al.|[2505.12594](http://arxiv.org/abs/2505.12594)|**[link](https://github.com/usc-fortis/ad-agent)**|
 |**2025-05-16**|**Vaiage: A Multi-Agent Solution to Personalized Travel Planning**|Binwen Liu et.al.|[2505.10922](http://arxiv.org/abs/2505.10922)|null|
 |**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|**[link](https://github.com/egirgin/storaige-b950)**|
 |**2025-05-12**|**AgentFlow: Resilient Adaptive Cloud-Edge Framework for Multi-Agent Coordination**|Ching Han Chen et.al.|[2505.07603](http://arxiv.org/abs/2505.07603)|null|
@@ -4961,7 +4961,7 @@ layout: default
 |**2025-05-28**|**Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation**|Yu-Lun Song et.al.|[2505.21880](http://arxiv.org/abs/2505.21880)|null|
 |**2025-05-27**|**Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks**|Francesco Cozzi et.al.|[2505.21426](http://arxiv.org/abs/2505.21426)|**[link](https://github.com/fracozzi/abm-graph-diffusion-network)**|
 |**2025-05-21**|**Agent-based Liquidity Risk Modelling for Financial Markets**|Perukrishnen Vytelingum et.al.|[2505.15296](http://arxiv.org/abs/2505.15296)|null|
-|**2025-05-17**|**Modèles de Substitution pour les Modèles à base d'Agents : Enjeux, Méthodes et Applications**|Paul Saves et.al.|[2505.11912](http://arxiv.org/abs/2505.11912)|null|
+|**2025-05-17**|**Modèles de Substitution pour les Modèles à base d'Agents : Enjeux, Méthodes et Applications**|Paul Saves et.al.|[2505.11912](http://arxiv.org/abs/2505.11912)|**[link](https://github.com/anr-mimico/jfsma_schelling)**|
 |**2025-05-14**|**SALM: A Multi-Agent Framework for Language Model-Driven Social Network Simulation**|Gaurav Koley et.al.|[2505.09081](http://arxiv.org/abs/2505.09081)|**[link](https://github.com/arkokoley/salm)**|
 |**2025-05-11**|**EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation**|Xinyi Mou et.al.|[2505.06904](http://arxiv.org/abs/2505.06904)|**[link](https://github.com/xymou/EcoLANG)**|
 |**2025-05-08**|**An Agent-Based Modeling Approach to Free-Text Keyboard Dynamics for Continuous Authentication**|Roberto Dillon et.al.|[2505.05015](http://arxiv.org/abs/2505.05015)|null|
