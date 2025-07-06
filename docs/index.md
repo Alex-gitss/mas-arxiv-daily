@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions**|Thomas Hazenberg et.al.|[2507.02698](http://arxiv.org/abs/2507.02698)|null|
+|**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378](http://arxiv.org/abs/2507.01378)|null|
 |**2025-06-24**|**Learning Bilateral Team Formation in Cooperative Multi-Agent Reinforcement Learning**|Koorosh Moslemi et.al.|[2506.20039](http://arxiv.org/abs/2506.20039)|null|
 |**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
 |**2025-06-24**|**Center of Gravity-Guided Focusing Influence Mechanism for Multi-Agent Reinforcement Learning**|Yisak Park et.al.|[2506.19417](http://arxiv.org/abs/2506.19417)|null|
@@ -4855,6 +4857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding**|Yuchen Ma et.al.|[2507.02843](http://arxiv.org/abs/2507.02843)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
+|**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
+|**2025-07-03**|**Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions**|Thomas Hazenberg et.al.|[2507.02698](http://arxiv.org/abs/2507.02698)|null|
+|**2025-07-03**|**Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models**|Yongjiang Liu et.al.|[2507.02663](http://arxiv.org/abs/2507.02663)|null|
+|**2025-07-03**|**Breaking the HBM Bit Cost Barrier: Domain-Specific ECC for AI Inference Infrastructure**|Rui Xie et.al.|[2507.02654](http://arxiv.org/abs/2507.02654)|null|
+|**2025-07-03**|**Recourse, Repair, Reparation, & Prevention: A Stakeholder Analysis of AI Supply Chains**|Aspen K. Hopkins et.al.|[2507.02648](http://arxiv.org/abs/2507.02648)|null|
+|**2025-07-03**|**Steady-State Coherences under Partial Collective non-Markovian Decoherence**|S. L. Wu et.al.|[2507.02557](http://arxiv.org/abs/2507.02557)|null|
+|**2025-07-03**|**Curvature Rigidity Through Level Sets of Lyapunov Exponents in Geodesic Flows**|Sergio Romaña et.al.|[2507.02482](http://arxiv.org/abs/2507.02482)|null|
+|**2025-07-03**|**Primordial regular black holes as all the dark matter. III. Covariant canonical quantum gravity models**|Marco Calzà et.al.|[2507.02396](http://arxiv.org/abs/2507.02396)|null|
 |**2025-06-27**|**Spin polarization from nucleon-nucleon scatterings in intermediate-energy heavy-ion collisions**|Rong-Jun Liu et.al.|[2506.22247](http://arxiv.org/abs/2506.22247)|null|
 |**2025-06-27**|**Uncovering smooth structures in single-cell data with PCS-guided neighbor embeddings**|Rong Ma et.al.|[2506.22228](http://arxiv.org/abs/2506.22228)|null|
 |**2025-06-27**|**Narrow beam and low-sidelobe two-dimensional beam steering on thin-film lithium niobate optical phased array**|Yang Li et.al.|[2506.22124](http://arxiv.org/abs/2506.22124)|null|
@@ -4930,6 +4942,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models**|Shaurya Mallampati et.al.|[2507.02002](http://arxiv.org/abs/2507.02002)|null|
+|**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
+|**2025-07-01**|**Multi-Agent Coordination under Poisson Observations: A Global Game Approach**|Marcos M. Vasconcelos et.al.|[2507.00424](http://arxiv.org/abs/2507.00424)|null|
 |**2025-06-24**|**Prover Agent: An Agent-based Framework for Formal Mathematical Proofs**|Kaito Baba et.al.|[2506.19923](http://arxiv.org/abs/2506.19923)|null|
 |**2025-06-21**|**AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction**|Song Wang et.al.|[2506.17784](http://arxiv.org/abs/2506.17784)|null|
 |**2025-06-24**|**Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing**|Sidong Feng et.al.|[2506.17539](http://arxiv.org/abs/2506.17539)|null|
@@ -4957,6 +4972,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Multi-agent Auditory Scene Analysis**|Caleb Rascon et.al.|[2507.02755](http://arxiv.org/abs/2507.02755)|null|
+|**2025-07-03**|**Source Detection in Hypergraph Epidemic Dynamics using a Higher-Order Dynamic Message Passing Algorithm**|Qiao Ke et.al.|[2507.02523](http://arxiv.org/abs/2507.02523)|null|
+|**2025-07-03**|**Predicting Flow-Induced Vibration in Isolated and Tandem Cylinders Using Hypergraph Neural Networks**|Shayan Heydari et.al.|[2507.02242](http://arxiv.org/abs/2507.02242)|null|
+|**2025-07-02**|**Synergizing Logical Reasoning, Knowledge Management and Collaboration in Multi-Agent LLM System**|Adam Kostka et.al.|[2507.02170](http://arxiv.org/abs/2507.02170)|null|
+|**2025-07-02**|**The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems**|Reza Yousefi Maragheh et.al.|[2507.02097](http://arxiv.org/abs/2507.02097)|null|
+|**2025-07-02**|**Fluid Aerial Networks: UAV Rotation for Inter-Cell Interference Mitigation**|Enzhi Zhou et.al.|[2507.01289](http://arxiv.org/abs/2507.01289)|null|
+|**2025-07-01**|**Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning**|Félix Lefebvre et.al.|[2507.00965](http://arxiv.org/abs/2507.00965)|null|
+|**2025-07-01**|**Understanding Generalization in Node and Link Prediction**|Antonis Vasileiou et.al.|[2507.00927](http://arxiv.org/abs/2507.00927)|null|
+|**2025-07-01**|**TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality**|Carlos Vonessen et.al.|[2507.00899](http://arxiv.org/abs/2507.00899)|null|
+|**2025-07-01**|**Cooperative Sheaf Neural Networks**|André Ribeiro et.al.|[2507.00647](http://arxiv.org/abs/2507.00647)|null|
 |**2025-06-27**|**Why Are Parsing Actions for Understanding Message Hierarchies Not Random?**|Daichi Kato et.al.|[2506.22366](http://arxiv.org/abs/2506.22366)|null|
 |**2025-06-27**|**Transformers are Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2506.22084](http://arxiv.org/abs/2506.22084)|null|
 |**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li et.al.|[2506.21798](http://arxiv.org/abs/2506.21798)|null|
@@ -5026,6 +5051,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Learning to Coordinate Bidders in Non-Truthful Auctions**|Hu Fu et.al.|[2507.02801](http://arxiv.org/abs/2507.02801)|null|
+|**2025-07-03**|**TUC-PPO: Team Utility-Constrained Proximal Policy Optimization for Spatial Public Goods Games**|Zhaoqilin Yang et.al.|[2507.02675](http://arxiv.org/abs/2507.02675)|null|
+|**2025-07-03**|**Strategic Intelligence in Large Language Models: Evidence from evolutionary Game Theory**|Kenneth Payne et.al.|[2507.02618](http://arxiv.org/abs/2507.02618)|null|
+|**2025-07-03**|**Resolving CAP Through Automata-Theoretic Economic Design: A Unified Mathematical Framework for Real-Time Partition-Tolerant Systems**|Craig S Wright et.al.|[2507.02464](http://arxiv.org/abs/2507.02464)|null|
+|**2025-07-02**|**Operator-Theoretic Methods for Differential Games**|Craig Bakker et.al.|[2507.02203](http://arxiv.org/abs/2507.02203)|null|
+|**2025-07-02**|**Can Artificial Intelligence solve the blockchain oracle problem? Unpacking the Challenges and Possibilities**|Giulio Caldarelli et.al.|[2507.02125](http://arxiv.org/abs/2507.02125)|null|
+|**2025-07-02**|**Enriching the Felsenthal index with a priori unions for decision-making processes**|Alicia Mascareñas-Pazos et.al.|[2507.01621](http://arxiv.org/abs/2507.01621)|null|
+|**2025-07-02**|**Rational Censorship Attack: Breaking Blockchain with a Blackboard**|Michelle Yeo et.al.|[2507.01453](http://arxiv.org/abs/2507.01453)|null|
+|**2025-07-02**|**Evaluating LLM Agent Collusion in Double Auctions**|Kushal Agrawal et.al.|[2507.01413](http://arxiv.org/abs/2507.01413)|null|
+|**2025-07-02**|**Counterfactual Explanation of Shapley Value in Data Coalitions**|Michelle Si et.al.|[2507.01267](http://arxiv.org/abs/2507.01267)|null|
 |**2025-06-27**|**Proof-of-Behavior: Behavior-Driven Consensus for Trustworthy Decentralized Finance**|Ailiya Borjigin et.al.|[2506.22171](http://arxiv.org/abs/2506.22171)|null|
 |**2025-06-30**|**A few good choices**|Thanh Nguyen et.al.|[2506.22133](http://arxiv.org/abs/2506.22133)|null|
 |**2025-06-27**|**Pseudo-Equilibria, or: How to Stop Worrying About Crypto and Just Analyze the Game**|Alexandros Psomas et.al.|[2506.22089](http://arxiv.org/abs/2506.22089)|null|
@@ -5101,6 +5136,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**SciArena: An Open Evaluation Platform for Foundation Models in Scientific Literature Tasks**|Yilun Zhao et.al.|[2507.01001](http://arxiv.org/abs/2507.01001)|null|
+|**2025-07-01**|**Beyond von Mises Truss Models: Emergent Bistability in Mechanical Metamaterials**|Md Nahid Hasan et.al.|[2507.00996](http://arxiv.org/abs/2507.00996)|null|
+|**2025-07-01**|**Swarm-based optimization with jumps: a kinetic BGK framework and convergence analysis**|Giacomo Borghi et.al.|[2507.00871](http://arxiv.org/abs/2507.00871)|null|
+|**2025-06-28**|**Neural Cellular Automata: From Cells to Pixels**|Ehsan Pajouheshgar et.al.|[2506.22899](http://arxiv.org/abs/2506.22899)|null|
 |**2025-06-27**|**Ecosystems as adaptive living circuits**|Ankit Dhanuka et.al.|[2506.22017](http://arxiv.org/abs/2506.22017)|null|
 |**2025-06-26**|**Artificial Delegates Resolve Fairness Issues in Perpetual Voting with Partial Turnout**|Apurva Shah et.al.|[2506.21186](http://arxiv.org/abs/2506.21186)|null|
 |**2025-06-25**|**A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem**|Kristoffer Christensen et.al.|[2506.20400](http://arxiv.org/abs/2506.20400)|null|
@@ -5133,6 +5172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**An Algorithm for Estimating $α$ -Stabilizer Rényi Entropies via Purity**|Benjamin Stratton et.al.|[2507.02540](http://arxiv.org/abs/2507.02540)|null|
+|**2025-07-03**|**Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**|Roopkatha Banerjee et.al.|[2507.02295](http://arxiv.org/abs/2507.02295)|null|
+|**2025-07-03**|**Bias-tailored single-shot quantum LDPC codes**|Shixin Wu et.al.|[2507.02239](http://arxiv.org/abs/2507.02239)|null|
+|**2025-07-02**|**Observation of generic U(m) non-Abelian holonomy in photonics**|Youlve Chen et.al.|[2507.01394](http://arxiv.org/abs/2507.01394)|null|
+|**2025-07-02**|**On Securing Berrut Approximated Coded Computing Through Discrete Cosine Transforms**|Rimpi Borah et.al.|[2507.01330](http://arxiv.org/abs/2507.01330)|null|
+|**2025-07-01**|**A Fundamental Bound for Robust Quantum Gate Control**|Robert L. Kosut et.al.|[2507.01215](http://arxiv.org/abs/2507.01215)|null|
+|**2025-07-03**|**Coupled Cluster Downfolding Theory in Simulations of Chemical Systems on Quantum Hardware**|Nicholas P. Bauman et.al.|[2507.01199](http://arxiv.org/abs/2507.01199)|null|
+|**2025-07-01**|**Quantum Computing in Discrete- and Continuous-Variable Architectures**|Shraddha Singh et.al.|[2507.01146](http://arxiv.org/abs/2507.01146)|null|
+|**2025-07-01**|**Quantum Imaginary-Time Evolution with Polynomial Resources in Time**|Lei Zhang et.al.|[2507.00908](http://arxiv.org/abs/2507.00908)|null|
+|**2025-07-01**|**DynoStore: A wide-area distribution system for the management of data over heterogeneous storage**|Dante D. Sanchez-Gallegos et.al.|[2507.00576](http://arxiv.org/abs/2507.00576)|null|
 |**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430](http://arxiv.org/abs/2506.22430)|null|
 |**2025-06-27**|**Fault-Tolerant Matroid Bases**|Matthias Bentert et.al.|[2506.22010](http://arxiv.org/abs/2506.22010)|null|
 |**2025-06-25**|**Consistent Simulation of Fibonacci Anyon Braiding within a Qubit Quasicrystal Inflation Code**|Marcelo M. Amaral et.al.|[2506.21643](http://arxiv.org/abs/2506.21643)|null|
