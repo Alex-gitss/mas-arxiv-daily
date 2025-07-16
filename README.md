@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -981,7 +981,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## SFM
 
@@ -1406,7 +1406,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2570,7 +2570,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2885,7 +2885,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3219,7 +3219,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## NeRF
 
@@ -4837,12 +4837,18 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Multi-Agent Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**ToMacVF : Temporal Macro-action Value Factorization for Asynchronous Multi-Agent Reinforcement Learning**|Wenjing Zhang et.al.|[2507.10251](http://arxiv.org/abs/2507.10251)|null|
+|**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
+|**2025-07-14**|**Improving monotonic optimization in heterogeneous multi-agent reinforcement learning with optimal marginal deterministic policy gradient**|Xiaoyang Yu et.al.|[2507.09989](http://arxiv.org/abs/2507.09989)|null|
+|**2025-07-12**|**Hide-and-Shill: A Reinforcement Learning Framework for Market Manipulation Detection in Symphony-a Decentralized Multi-Agent System**|Ronghua Shi et.al.|[2507.09179](http://arxiv.org/abs/2507.09179)|null|
+|**2025-07-12**|**Transformer based Collaborative Reinforcement Learning for Fluid Antenna System (FAS)-enabled 3D UAV Positioning**|Xiaoren Xu et.al.|[2507.09094](http://arxiv.org/abs/2507.09094)|null|
+|**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320](http://arxiv.org/abs/2507.07320)|null|
 |**2025-07-09**|**Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments**|Farhaan Ebadulla et.al.|[2507.07074](http://arxiv.org/abs/2507.07074)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
 |**2025-07-09**|**Multi-Task Multi-Agent Reinforcement Learning via Skill Graphs**|Guobin Zhu et.al.|[2507.06690](http://arxiv.org/abs/2507.06690)|null|
@@ -4885,12 +4891,22 @@
 |**2025-05-30**|**Biological Pathway Guided Gene Selection Through Collaborative Reinforcement Learning**|Ehtesamul Azim et.al.|[2505.24155](http://arxiv.org/abs/2505.24155)|**[link](https://github.com/ehtesam3154/biomarl)**|
 |**2025-05-28**|**Oryx: a Performant and Scalable Algorithm for Many-Agent Coordination in Offline MARL**|Claude Formanek et.al.|[2505.22151](http://arxiv.org/abs/2505.22151)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Multi-Agent Systems
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Cameras as Relative Positional Encoding**|Ruilong Li et.al.|[2507.10496](http://arxiv.org/abs/2507.10496)|null|
+|**2025-07-14**|**4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**|Shanshan Zhong et.al.|[2507.10437](http://arxiv.org/abs/2507.10437)|null|
+|**2025-07-15**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
+|**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358](http://arxiv.org/abs/2507.10358)|null|
+|**2025-07-14**|**Search for the charged lepton flavor violating decay $ψ(3686)\to e^{\pm}μ^{\mp}$**|BESIII Collaboration et.al.|[2507.10331](http://arxiv.org/abs/2507.10331)|null|
+|**2025-07-14**|**Digitization of Astronomical Photographic Plate of China: Photometric Calibration of Single-exposure Plates and Release of Photometric Catalogs**|Ma Mingyang et.al.|[2507.10270](http://arxiv.org/abs/2507.10270)|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
+|**2025-07-14**|**Tracing attosecond currents and controlling their direction in a scanning tunneling microscope**|Daniel Davidovich et.al.|[2507.10252](http://arxiv.org/abs/2507.10252)|null|
+|**2025-07-14**|**Natural Language-based Assessment of L2 Oral Proficiency using LLMs**|Stefano Bannò et.al.|[2507.10200](http://arxiv.org/abs/2507.10200)|null|
+|**2025-07-14**|**Complex structured light generation using printed liquid crystal droplets**|Xuke Qiu et.al.|[2507.10186](http://arxiv.org/abs/2507.10186)|null|
 |**2025-07-09**|**Sensitivity and Topology of Exceptional Rings in Nonlinear Non-Hermitian Planar Optical Microcavities**|Jan Wingenbach et.al.|[2507.07099](http://arxiv.org/abs/2507.07099)|null|
 |**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095](http://arxiv.org/abs/2507.07095)|null|
 |**2025-07-09**|**Conformal Link Prediction with False Discovery Rate Control**|Wenqin Du et.al.|[2507.07025](http://arxiv.org/abs/2507.07025)|null|
@@ -4982,17 +4998,21 @@
 |**2025-06-04**|**Advancements in Artificial Intelligence Applications for Cardiovascular Disease Research**|Yuanlin Mo et.al.|[2506.03698](http://arxiv.org/abs/2506.03698)|null|
 |**2025-06-04**|**A Two-Staged LLM-Based Framework for CI/CD Failure Detection and Remediation with Industrial Validation**|Weiyuan Xu et.al.|[2506.03691](http://arxiv.org/abs/2506.03691)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Multi-Agent Coordination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Predictive & Trust-based Multi-Agent Coordination**|Venkatraman Renganathan et.al.|[2507.09997](http://arxiv.org/abs/2507.09997)|null|
+|**2025-07-12**|**StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent LLMs in Financial Markets**|Charidimos Papadakis et.al.|[2507.09255](http://arxiv.org/abs/2507.09255)|null|
+|**2025-07-11**|**Age of Information Optimization in Laser-charged UAV-assisted IoT Networks: A Multi-agent Deep Reinforcement Learning Method**|Geng Sun et.al.|[2507.08429](http://arxiv.org/abs/2507.08429)|null|
+|**2025-07-10**|**PILOC: A Pheromone Inverse Guidance Mechanism and Local-Communication Framework for Dynamic Target Search of Multi-Agent in Unknown Environments**|Hengrui Liu et.al.|[2507.07376](http://arxiv.org/abs/2507.07376)|null|
 |**2025-07-09**|**Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments**|Farhaan Ebadulla et.al.|[2507.07074](http://arxiv.org/abs/2507.07074)|null|
 |**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004](http://arxiv.org/abs/2507.06004)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 |**2025-07-01**|**Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models**|Shaurya Mallampati et.al.|[2507.02002](http://arxiv.org/abs/2507.02002)|null|
-|**2025-07-09**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
+|**2025-07-12**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
 |**2025-07-01**|**Multi-Agent Coordination under Poisson Observations: A Global Game Approach**|Marcos M. Vasconcelos et.al.|[2507.00424](http://arxiv.org/abs/2507.00424)|null|
 |**2025-06-24**|**Prover Agent: An Agent-based Framework for Formal Mathematical Proofs**|Kaito Baba et.al.|[2506.19923](http://arxiv.org/abs/2506.19923)|null|
 |**2025-06-21**|**AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction**|Song Wang et.al.|[2506.17784](http://arxiv.org/abs/2506.17784)|null|
@@ -5017,12 +5037,22 @@
 |**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|**[link](https://github.com/egirgin/storaige-b950)**|
 |**2025-05-12**|**AgentFlow: Resilient Adaptive Cloud-Edge Framework for Multi-Agent Coordination**|Ching Han Chen et.al.|[2505.07603](http://arxiv.org/abs/2505.07603)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Multi-Agent Communication
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
+|**2025-07-14**|**Toolsuite for Implementing Multiagent Systems Based on Communication Protocols**|Amit K. Chopra et.al.|[2507.10324](http://arxiv.org/abs/2507.10324)|null|
+|**2025-07-14**|**Learning-Aided Iterative Receiver for Superimposed Pilots: Design and Experimental Evaluation**|Xinjie Li et.al.|[2507.10074](http://arxiv.org/abs/2507.10074)|null|
+|**2025-07-14**|**Large Population Models**|Ayush Chopra et.al.|[2507.09901](http://arxiv.org/abs/2507.09901)|null|
+|**2025-07-14**|**UavNetSim-v1: A Python-based Simulation Platform for UAV Communication Networks**|Zihao Zhou et.al.|[2507.09852](http://arxiv.org/abs/2507.09852)|null|
+|**2025-07-12**|**Geometric Generative Modeling with Noise-Conditioned Graph Networks**|Peter Pao-Huang et.al.|[2507.09391](http://arxiv.org/abs/2507.09391)|null|
+|**2025-07-12**|**On-Demand HAPS-Assisted Communication System for Public Safety in Emergency and Disaster Response**|Bilal Karaman et.al.|[2507.09153](http://arxiv.org/abs/2507.09153)|null|
+|**2025-07-11**|**Partitioned Hybrid Quantum Fourier Neural Operators for Scientific Quantum Machine Learning**|Paolo Marcandelli et.al.|[2507.08746](http://arxiv.org/abs/2507.08746)|null|
+|**2025-07-10**|**Photonic quantum information with time-bins: Principles and applications**|Ashutosh Singh et.al.|[2507.08102](http://arxiv.org/abs/2507.08102)|null|
+|**2025-07-10**|**Multi-Scale Network Dynamics and Systemic Risk: A Model Context Protocol Approach to Financial Markets**|Avishek Bhandari et.al.|[2507.08065](http://arxiv.org/abs/2507.08065)|null|
 |**2025-07-09**|**Learning To Communicate Over An Unknown Shared Network**|Shivangi Agarwal et.al.|[2507.06499](http://arxiv.org/abs/2507.06499)|null|
 |**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161](http://arxiv.org/abs/2507.06161)|null|
 |**2025-07-07**|**Secure Quantum Relay Networks Using Distributed Entanglement without Classical Authentication**|Asgar Hosseinnezhad et.al.|[2507.05460](http://arxiv.org/abs/2507.05460)|null|
@@ -5108,12 +5138,22 @@
 |**2025-06-02**|**COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents**|Manish Bhatt et.al.|[2506.01900](http://arxiv.org/abs/2506.01900)|null|
 |**2025-06-02**|**Improved belief propagation is sufficient for real-time decoding of quantum memory**|Tristan Müller et.al.|[2506.01779](http://arxiv.org/abs/2506.01779)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Game Theory and MAS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**The Value Problem for Weighted Timed Games with Two Clocks is Undecidable**|Quentin Guilmant et.al.|[2507.10550](http://arxiv.org/abs/2507.10550)|null|
+|**2025-07-14**|**Machine-Learning to Trust**|Ran Spiegler et.al.|[2507.10363](http://arxiv.org/abs/2507.10363)|null|
+|**2025-07-14**|**Bicriteria Submodular Maximization**|Moran Feldman et.al.|[2507.10248](http://arxiv.org/abs/2507.10248)|null|
+|**2025-07-14**|**A Coincidence of Wants Mechanism for Swap Trade Execution in Decentralized Exchanges**|Abhimanyu Nag et.al.|[2507.10149](http://arxiv.org/abs/2507.10149)|null|
+|**2025-07-14**|**A New Incentive Model For Content Trust**|Lucas Barbosa et.al.|[2507.09972](http://arxiv.org/abs/2507.09972)|null|
+|**2025-07-14**|**Generalized Quantal Response Equilibrium: Existence and Efficient Learning**|Apurv Shukla et.al.|[2507.09928](http://arxiv.org/abs/2507.09928)|null|
+|**2025-07-14**|**Tie-breaking Agnostic Lower Bound for Fictitious Play**|Yuanhao Wang et.al.|[2507.09902](http://arxiv.org/abs/2507.09902)|null|
+|**2025-07-14**|**Covering a Few Submodular Constraints and Applications**|Tanvi Bajpai et.al.|[2507.09879](http://arxiv.org/abs/2507.09879)|null|
+|**2025-07-13**|**Networked Information Aggregation via Machine Learning**|Michael Kearns et.al.|[2507.09683](http://arxiv.org/abs/2507.09683)|null|
+|**2025-07-13**|**Ranked Pairs minimizes the $p$-norm as $p \to \infty$**|Amir Babak Aazami et.al.|[2507.09654](http://arxiv.org/abs/2507.09654)|null|
 |**2025-07-10**|**Prediction-Augmented Mechanism Design for Weighted Facility Location**|Yangguang Shi et.al.|[2507.06509](http://arxiv.org/abs/2507.06509)|null|
 |**2025-07-08**|**Rugsafe: A multichain protocol for recovering from and defending against Rug Pulls**|Jovonni L. Pharr et.al.|[2507.06423](http://arxiv.org/abs/2507.06423)|null|
 |**2025-07-08**|**Aligned Textual Scoring Rules**|Yuxuan Lu et.al.|[2507.06221](http://arxiv.org/abs/2507.06221)|null|
@@ -5205,12 +5245,16 @@
 |**2025-06-03**|**The power of mediators: Price of anarchy and stability in Bayesian games with submodular social welfare**|Kaito Fujii et.al.|[2506.02655](http://arxiv.org/abs/2506.02655)|null|
 |**2025-06-03**|**Computational adversarial risk analysis for general security games**|Jose Manuel Camacho et.al.|[2506.02603](http://arxiv.org/abs/2506.02603)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Swarm Intelligence
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Information Must Flow: Recursive Bootstrapping for Information Bottleneck in Optimal Transport**|Xin Li et.al.|[2507.10443](http://arxiv.org/abs/2507.10443)|null|
+|**2025-07-14**|**Large Population Models**|Ayush Chopra et.al.|[2507.09901](http://arxiv.org/abs/2507.09901)|null|
+|**2025-07-10**|**AI Feedback Enhances Community-Based Content Moderation through Engagement with Counterarguments**|Saeedeh Mohammadi et.al.|[2507.08110](http://arxiv.org/abs/2507.08110)|null|
+|**2025-07-10**|**On the weak flocking of the kinetic Cucker-Smale model in a fully non-compact support setting**|Seung-Yeal Ha et.al.|[2507.07493](http://arxiv.org/abs/2507.07493)|null|
 |**2025-07-08**|**Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data**|Chang Liu et.al.|[2507.05884](http://arxiv.org/abs/2507.05884)|null|
 |**2025-07-07**|**Red Teaming AI Red Teaming**|Subhabrata Majumdar et.al.|[2507.05538](http://arxiv.org/abs/2507.05538)|null|
 |**2025-07-07**|**Hunting in the Dark: Metrics for Early Stage Traffic Discovery**|Max Gao et.al.|[2507.05213](http://arxiv.org/abs/2507.05213)|null|
@@ -5248,12 +5292,22 @@
 |**2025-05-26**|**RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models**|Nguyen Thach et.al.|[2505.20242](http://arxiv.org/abs/2505.20242)|null|
 |**2025-05-26**|**SwarmThinkers: Learning Physically Consistent Atomic KMC Transitions at Scale**|Qi Li et.al.|[2505.20094](http://arxiv.org/abs/2505.20094)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Consensus and Agreement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Consensus, Inconsistency, Emergence: what's paraconsistency got to do with it?**|Gabriel Rocha et.al.|[2507.10413](http://arxiv.org/abs/2507.10413)|null|
+|**2025-07-14**|**Fault-Tolerant Quantum Error Correction for Constant-Excitation Stabilizer Codes under Coherent Noise**|Ching-Yi Lai et.al.|[2507.10395](http://arxiv.org/abs/2507.10395)|null|
+|**2025-07-13**|**Small Quantum Low Parity Density Check Codes for Near-Term Experiments**|Christian Kraglund Andersen et.al.|[2507.09690](http://arxiv.org/abs/2507.09690)|null|
+|**2025-07-13**|**Using a Kerr interaction for GKP magic state preparation**|Jérémie Boudreault et.al.|[2507.09684](http://arxiv.org/abs/2507.09684)|null|
+|**2025-07-13**|**THOR: Transformer Heuristics for On-Demand Retrieval**|Isaac Shi et.al.|[2507.09592](http://arxiv.org/abs/2507.09592)|null|
+|**2025-07-13**|**Simulating plasma wave propagation on a superconducting quantum chip**|Bhuvanesh Sundar et.al.|[2507.09479](http://arxiv.org/abs/2507.09479)|null|
+|**2025-07-11**|**Approximate quantum circuit compilation for proton-transfer kinetics on quantum processors**|Arseny Kovyrshin et.al.|[2507.08996](http://arxiv.org/abs/2507.08996)|null|
+|**2025-07-11**|**Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor**|Ammar Ali et.al.|[2507.08939](http://arxiv.org/abs/2507.08939)|null|
+|**2025-07-11**|**Arbitrary high-fidelity binomial codes from multiphoton spin-boson interactions**|Pradip Laha et.al.|[2507.08585](http://arxiv.org/abs/2507.08585)|null|
+|**2025-07-11**|**Enhancing Decoding Performance using Efficient Error Learning**|Pavithran Iyer et.al.|[2507.08536](http://arxiv.org/abs/2507.08536)|null|
 |**2025-07-09**|**Flexible Readout and Unconditional Reset for Superconducting Multi-Qubit Processors with Tunable Purcell Filters**|Yong-Xi Xiao et.al.|[2507.06988](http://arxiv.org/abs/2507.06988)|null|
 |**2025-07-09**|**No physics required! A visual-based introduction to GKP qubits for computer scientists**|Richard A. Wolf et.al.|[2507.06943](http://arxiv.org/abs/2507.06943)|null|
 |**2025-07-09**|**Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments**|Tohid Kargar Tasooji et.al.|[2507.06750](http://arxiv.org/abs/2507.06750)|null|
@@ -5333,12 +5387,14 @@
 |**2025-06-01**|**Quantum-Classical Embedding via Ghost Gutzwiller Approximation for Enhanced Simulations of Correlated Electron Systems**|I-Chi Chen et.al.|[2506.01204](http://arxiv.org/abs/2506.01204)|null|
 |**2025-06-01**|**ReTern: Exploiting Natural Redundancy and Sign Transformations for Enhanced Fault Tolerance in Compute-in-Memory based Ternary LLMs**|Akul Malhotra et.al.|[2506.01140](http://arxiv.org/abs/2506.01140)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Multi-Agent Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154](http://arxiv.org/abs/2507.10154)|null|
+|**2025-07-09**|**Next-Generation Travel Demand Modeling with a Generative Framework for Household Activity Coordination**|Xishun Liao et.al.|[2507.08871](http://arxiv.org/abs/2507.08871)|null|
 |**2025-07-08**|**Large Language Models for Agent-Based Modelling: Current and possible uses across the modelling cycle**|Loïs Vanhée et.al.|[2507.05723](http://arxiv.org/abs/2507.05723)|null|
 |**2025-07-05**|**Efficiency through Evolution, A Darwinian Approach to Agent-Based Economic Forecast Modeling**|Martin Jaraiz et.al.|[2507.04074](http://arxiv.org/abs/2507.04074)|null|
 |**2025-06-26**|**Scaling the human niche**|Marcus J. Hamilton et.al.|[2506.20902](http://arxiv.org/abs/2506.20902)|null|
@@ -5360,7 +5416,7 @@
 |**2025-05-11**|**EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation**|Xinyi Mou et.al.|[2505.06904](http://arxiv.org/abs/2505.06904)|**[link](https://github.com/xymou/EcoLANG)**|
 |**2025-05-08**|**An Agent-Based Modeling Approach to Free-Text Keyboard Dynamics for Continuous Authentication**|Roberto Dillon et.al.|[2505.05015](http://arxiv.org/abs/2505.05015)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
